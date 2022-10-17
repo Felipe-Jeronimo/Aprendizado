@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to right, rgb(3, 78, 25),rgb(247, 247, 247), red);
+}
+.login{
+    text-align: center; 
+}
+form{
+    border: 5px solid yellow;
+    margin-top: 140px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+label{
+    font-size: 25px;
+}
+#botao{
+    font-size: 20px;
+    margin-bottom:20px;
+}
+
